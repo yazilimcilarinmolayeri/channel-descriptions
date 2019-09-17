@@ -19,6 +19,8 @@
 *#yazılım-rolü-alma*:<br/>
 :small_blue_diamond: Probem yaşayan kişilerin problemlerine daha hızlı çözüm olabilmek adına bu kanalda ilgili tepkiyi mesaja bırakarak yazılım/program rolleri alabilirsiniz. **Lütfen** gösteriş için rol almayın. Rol almakta sorun yaşadığınız durumlarda yönetici ekip ile iletişime geçin.<br>
 
+<hr>
+
 ### Paylaşım Odaları
 *#iş-ilanları*:<br/>
 :small_blue_diamond: Sunucuda iş arayışı içerisinde olan üyelerimize yönelik kanaldır. **Lütfen** sahte iş ilanları vermeyiniz. İlgilendiğinz iş ilanı ile ilgili sorularınızı iş ilanını paylaşan kişiye özel mesaj yoluyla iletiniz, bu kanalda iş ilanları ile ilgili **sohbet etmeyiniz!**<br/>
@@ -31,6 +33,8 @@
 
 *#blog-websayfası-tanıtma*:<br/>
 :small_blue_diamond: Sunucu üyelerinin blog yazıları ve web sayfalarını paylaştıkları kanaldır. Bağlantı paylaşımın yanında o blog yazısının yada web sayfasını tanıtan açıklama cümlesi yazınız, açıklama cümlesi olmayan gönderiler **silinecektir**. Reklam amacı güden paylaşımlar yapmaktan kaçının. Ve bu kanalda **sohbet yapmayın!**<br/>
+
+<hr>
 
 ### Sohbet Odaları
 *#sohbet*:<br/>
@@ -48,9 +52,13 @@
 *#donanım-ve-program-hataları*:<br/>
 :small_blue_diamond: Donanım bileşenleri -ana kart, ekran kartı, ram, harddisk, ekran, klavye vb.- ve yazılım bileşenleri -program kurulumu, bakımı, hataları, vb.- ile ilgili teknik destek kanalıdır. **Lütfen** orjinal olmayan -korsan- programların nasıl kurulumun yapıldığını ve lisans süresinin nasıl uzatıldığını gibi sorular sormayın! **Korsana Yazılıma Hayır**<br/>
 
+<hr>
+
 ### Ses Kanalları
 *#müzik-komut*:<br/>
 :small_blue_diamond: Sunucu üyelerinin müzik odasında müzik dinlemek için müzik botuna -bot ön eki: ; -iki nokta üst üste-- komut verdikerli kanaldır. Komut vermeden önce **müzik odasına** girdiğinizden emin olun. Bu kanalda **sohbet etmek yasaktır**.<br/>
+
+<hr>
 
 ### Yazılım & Tasarım Odaları
 *#algoritma*:<br/>
