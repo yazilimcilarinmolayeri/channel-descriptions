@@ -1,95 +1,145 @@
-## Bilgi Kanalları
+### Bilgi
 ```
-#beni-oku :
-:small_blue_diamond: Sunucu bilgilerinin ve kurallarının bulunduğu kanaldır. Bu kanalda sunucuya yeni giriş yapmış kullanıcılar bir mesaja tepki bırakarak **YMY Üyesi** rolü alırlar.
+#hoşgeldin :
+:small_blue_diamond: Karşılama! Kuralların yazdığı oda --> #beni-oku .
 
-#duyuru :
+#beni-oku :
+:small_blue_diamond: Sunucu bilgilerinin ve kurallarının bulunduğu kanaldır. Bu kanalda sunucuya yeni giriş yapmış kullanıcılar bir mesaja tepki bırakarak "**YMY Üyesi**" rolü alırlar.
+
+#duyurular :
 :small_blue_diamond: Yönetim ekibi tarafından, sunucu hakkında duyuruların yapıldığı özel kanaldır.
 
-#rol-atama :
-:small_blue_diamond: Probem yaşayan kişilerin problemlerine daha hızlı çözüm olabilmek adına bu kanalda ilgili tepkiyi mesaja bırakarak yazılım/program rolleri alabilirsiniz. **Lütfen** gösteriş için rol almayın. Rol almakta sorun yaşadığınız durumlarda yönetici ekip ile iletişime geçin.
+#partner-duyuruları :
+:small_blue_diamond: YMY partnerlerinin duyuruları ve haberlerinin yayınlandığı kanal.
 
-#partnerler :
-:small_blue_diamond: Sunucu partnerlerinin tanıtıldığı ve davet bağlantılarının paylaşıldığı özel kanaldır.
+#yıldızlı-mesajlar :
+:small_blue_diamond: En az **3** yıldız (:star:) tepkisi alan mesajlar (mesajın sahibi haricinde) bu kanala gönderilir.
 
+#ymy-github :
+:small_blue_diamond: YMY GitHub organizasyonu (https://github.com/ymyoh) kanalı. Bu kanalda organizasyon depolarına yapılan commitler, issueler vb. içerikler webhook botu tarafından paylaşılır. YMYBot yeniden yazılıyor. İşte yeni adresi: https://github.com/yazilimcilarinmolayeri/ymybot-rw
+```
+
+### Paylaşım
+```
 #anket-çekiliş :
 :small_blue_diamond: Yönetim ekibi tarafından, sunucu veya diğer herhangi bir konu hakkında anketlerin açıldığı kanaldır. Anketlere oy vermeniz sunucunun **gelişmesi** açısından büyük önem arz etmektedir.
 
-#öneri-şikayet :
-:small_blue_diamond: Sunucu üyelerinin, sunucu hakkında öneri, istek ve şikayetlerde bulunduğu kanaldır. Bu kanalda yapılan öneri, istek ve şikayet başlığı altında olmayan konu dışı **sohbet yapmak yasaktır**.
-```
+#istek-şikayet :
+:small_blue_diamond: Sunucu üyelerinin; sunucu hakkında istek ve şikayetlerde bulunduğu kanaldır.
 
-## Paylaşım Kanalları
-```
 #kendini-tanıt :
-:small_blue_diamond: Sunucu üyelerinin daha iyi iletişim kurabilmek adına kendilerini tanıtdıkarı kanaldır. Bu kanalda kesinlikle **sohbet etmek yasaktır**. GitHub, GitLab vb. kişisel depolar haricinde bağlantı yerleştirmek yasaktır...
+:small_blue_diamond: Sunucu üyelerinin daha iyi iletişim kurabilmek adına kendilerini tanıtdıkları kanaldır. GitHub, GitLab vb. kişisel depolar haricinde bağlantı yerleştirmek yasaktır...
 
-#ücretsiz-eğitimler :
-:small_blue_diamond: Ücretiz eğitimlerin sunucu üyleleri tarafından paylaşımının yapıldığı kanaldır. Bu kanalda kesinlikle **sohbet etmek yasaktır**.
-
-#blog-tanıtma :
-:small_blue_diamond: Sunucu üyelerinin blog yazıları ve web sayfalarını paylaştıkları kanaldır. Bağlantı paylaşımın yanında o blog yazısının yada web sayfasını tanıtan açıklama cümlesi yazınız, açıklama cümlesi olmayan gönderiler **silinecektir**. Reklam amacı güden paylaşımlar yapmaktan kaçının. Ve bu kanalda **sohbet yapmayın!**
-
-#iş-ilanları :
-:small_blue_diamond: Sunucuda iş arayışı içerisinde olan üyelerimize yönelik kanaldır. **Lütfen** sahte iş ilanları vermeyiniz. İlgilendiğinz iş ilanı ile ilgili sorularınızı iş ilanını paylaşan kişiye özel mesaj yoluyla iletiniz, bu kanalda iş ilanları ile ilgili **sohbet etmeyiniz!**
+#kaynak-paylaşım :
+:small_blue_diamond: Eğitimler, notlar, dökümanlar...
 ```
 
-## Sohbet Kanalları
+### Mola Yeri
+```
+#kahve-tarifleri :
+:small_blue_diamond: Yazılımcıların vazgeçilmezi olan kahve içeceği tariflerinin sunulduğu kanaldır.
+
+#alkollü-içecekler :
+:small_blue_diamond: Değerli gurme üstadımız **Fatih** abimizin alkollü içecek tecrübeleri...
+
+#alkol-sohbet :
+:small_blue_diamond: Alkollü içecekler hakkında konuşabileceğiniz 18 yaş ve üstüne özel kanal.
+
+#müzik-önerileri :
+:small_blue_diamond: Müzik listelerinin, parçalarının ve albümlerinin paylaşıldığı kanaldır.
+```
+
+### Genel Sohbet
 ```
 #sohbet :
-:small_blue_diamond: Genel sohbet kanalıdır. Eğer sohbetin içeriği **Yazılım Kanalları** katagorisi altındaki kanallara kayarsa bu kanalda o sohbet içeriğine **devam etmeyin.**. İlgili kanala yönelin...
-
-#tavsiyeler :
-:small_blue_diamond: Sunucu üyeleri programlama yada diğer konular -eğitim, bilgisayar araçları, donanımsal araçlar vb.- hakkında tavsiye isteyebilecekleri ve bunun hakkında fikir alış verişinde bulunabilecekleri kanaldır. Eğer sohbetin içeriği **Yazılım & Tasarım** katagorisi altındaki kanallara kayarsa bu kanalda o sohbet içeriğine **devam etmeyiniz**. İlgili kanala yöneliniz.
+:small_blue_diamond: Genel sohbet kanalıdır. Eğer sohbetin içeriği **Yazılım & Donanım** kategorisi altındaki kanallara kayarsa, bu kanalda o içeriğe **devam etmeyin**. İlgili kanala yönelin...
 
 #konu-dışı :
-:small_blue_diamond: **Bot komut çalıştırma (bot ön eki: ymy+)** ve ayrıca sunucudaki hiç bir kanalın içeriğine uymayan soru, bağlantı adresi -Video için: YouTube, Reddit vb. görsel için: Imgur vb. hareketli görsel için: -Giphy, Tenor vb.- paylaşımı yapılabilir. Eğer sohbetin içeriği **Yazılım & Tasarım** katagorisi altındaki kanallara kayarsa bu kanalda o sohbet içeriğine **devam etmeyiniz**. İlgili kanala yöneliniz.
+:small_blue_diamond: Bot komutları (ön ek: ymy+) çalıştırabilir. Diğer hiç bir kanala uygun olmayan, konu dışı sorular sorulabilir. Çeşitli görsel ve video bağlantıları paylaşılabilir.
+
+#tavsiyeler :
+:small_blue_diamond: :small_blue_diamond: Sunucu üyeleri programlama yada diğer konular -eğitim, günlük hayat, sağlık vb.- hakkında tavsiye isteyebilecekleri ve bunun hakkında fikir alışverişinde bulunabilecekleri kanaldır.
 
 #caps-memes :
-:small_blue_diamond: Caps ve memes paylaşımlarının yapıldığı kanaldır. Lütfen **uzun** süreli sohbetlerden kaçının. Erotik, pornografik ve siyasi paylaşımlar yapmayın!
+:small_blue_diamond: Caps, memes, mizah içerikli video ve görsellerin paylaşımlarının yapıldığı kanaldır. Kara mizah, ırkçılık ve +18 paylaşımlar yasaktır.
 ```
 
-## Yazılım Kanalları
+### Sesli Kanallar
+```
+#müzik-komutları :
+:small_blue_diamond: Sunucu üyelerinin müzik odasında müzik dinlemek için bota komut verdikleri kanaldır. Komut vermeden önce **müzik kanalına** girdiğinizden emin olun.
+
+> müzik-kanalı
+
+> sesli-sohbet
+
+> yayın-kanalı
+
+> afk-kullanıcılar
+```
+
+### Donanım & Yazılım
 ```
 #algoritma :
-:small_blue_diamond: Programlamaya giriş olan algoritma ve programlamanın ilk adımları -akış diyagramlar bv.- konularının bilgi alış verişinin yapıldığı kanaldır.
+:small_blue_diamond: Programlamaya giriş olan algoritma ve programlamanın ilk adımları -akış diyagramlar vb.- konularının bilgi alışverişinin yapıldığı kanaldır.
 
 #masaüstü-prog :
-:small_blue_diamond: Genel bilgisayar programlama dillerinin -C, C++, Pyhon, Java, C#, Rust, Lua, Lisp, Perl vs.- bilgi ve yardım alışverişinin yapıldığı kanaldır.
+:small_blue_diamond: Genel bilgisayar programlama dillerinin -C, C++, Python, Java, C#, Rust, Lua, Lisp, Perl vb.- bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
 #web-prog :
-:small_blue_diamond: Genel Web programlama dillerinin yada işaretleme dillerinin -HTML, CSS, JavaScript, PHP vs.- hakkında yardımlaşmanın ve bilgi alışverişinin yapıldığı kanaldır.
-
-#veritabanı :
-:small_blue_diamond: Veritabanları hakkında yardım ve bilgi alış-verişinin yapıldığı kanaldır.
+:small_blue_diamond: Genel Web programlama dilleri, Ağ yada işaretleme dillerinin -HTML, CSS, JavaScript, PHP vb.- hakkında yardımlaşmanın ve bilgi alışverişinin yapıldığı kanaldır.
 
 #mobil-prog :
-:small_blue_diamond: Android, iOS vb. mobil işletim sistemleri için uygulama geliştirme hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
+:small_blue_diamond: Android, iOS, HarmonyOS vb. mobil işletim sistemleri için uygulama geliştirme hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
 #oyun-prog :
-:small_blue_diamond: Oyun motorları, oyun tasarımı ve yazılımı gibi konuların bilgi ve yardım alışverişinin yapıldığı kanaldır.
+:small_blue_diamond: Oyun motorları, oyun tasarımı ve yazılımı gibi konuların hakkında bilgi ve yardım alışverişlerinin yapıldığı kanaldır.
+
+#veritabanları :
+:small_blue_diamond: Veritabanları (MySQL, NoSQL, SQLite vb.) hakkında yardım ve bilgi alışverişinin yapıldığı kanaldır.
+
+#işletim-sistemleri :
+:small_blue_diamond: Linux, Unix, Darwin ve NT çekirdekli işletim sistemleri hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır. Herhangi bir işletim sistemine (özellikle Windows'a) çöp, kötü demek veya kötülemek yasaktır; kullanıcılarına laf etmek yasaktır! Bunu, Windows'u savunduğumuz için söylemiyoruz. İnsanların kullanmayı tercih ettiği şeylere saygı gösterin. **||GNU/Linux <3||**
+
+#yapay-zeka :
+:small_blue_diamond: Yapay zeka, derin öğrenme, veri bilimi vb. konular hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
 #güvenlik :
 :small_blue_diamond: Siber, terörizm, siber savaş, siber casusluk, kişisel veri ve kurumsal verilerin korunması, güvenlik yazılımları ve veri kurtarma yazılımları konuları hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
-#işletim-sistemleri :
-:small_blue_diamond: Linux, Unix, Darwin ve NT çekirdekli işletim sistemleri hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır. **GNU/Linux <3**
-
-#yapay-zeka :
-:small_blue_diamond: Yapay zeka, derin öğrenme vs. konuları hakkında bilgi ve yardım alış-verişinin yapıldığı kanaldır.
-
 #bot-geliştirme :
-:small_blue_diamond: Diğer yazılımlar -Discord, Telegram vb.- üzerine entegre olan botlar hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
+:small_blue_diamond: Diğer yazılımlar -Discord, Telegram, Reddit vs.- üzerine entegre olan botlar ve Discord hakkında teknik bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
 #donanım :
-:small_blue_diamond: Donanım bileşenleri -ana kart, ekran kartı, ram, harddisk, ekran, klavye vb.- ve yazılım bileşenleri -program kurulumu, bakımı, hataları, vb.- ile ilgili teknik destek kanalıdır. **Lütfen** orjinal olmayan -korsan- programların nasıl kurulumun yapıldığını ve lisans süresinin nasıl uzatıldığını gibi sorular sormayın! **Korsana Yazılıma Hayır**
+:small_blue_diamond: Donanım bileşenleri -ana kart, ekran kartı, ram, harddisk, ekran, klavye vb.- ile ilgili teknik destek kanalıdır.
 
 #gömülü-sistemler :
-:small_blue_diamond: Mikrodenetleyici yada mikroişlemci tabanlı -Arduino, Raspberry Pi- kartların veya Elektrik/Elektronik hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
+:small_blue_diamond: Mikrodenetleyici yada mikroişlemci tabanlı -Arduino, Raspberry Pi- kartların veya Elektrik/Elektronik (EE) hakkında bilgi ve yardım alışverişinin yapıldığı kanaldır.
 ```
 
-## Diğer Kanallar
+### Geliştirci
 ```
+#projeler :
+:small_blue_diamond: Projeler...
+
+#test-geliştirme :
+:small_blue_diamond: YMYBot'un sunucu üyeleri ile birlikte geliştirildiği kanaldır. **Sabitli mesajlara bakın.** Kaynak kod: https://github.com/yazilimcilarinmolayeri/ymybot
+```
+
+### Kariyer
+```
+#iş-ilanları :
+:small_blue_diamond: [https://yazilimcilarinmolayeri.com/ilanlar] Sunucuda geliştirici/uzman arayışı içerisinde olan üyelerimize yönelik kanaldır. **Lütfen** sahte iş ilanları vermeyiniz.
+
+#staj-ilanları :
+:small_blue_diamond: [https://yazilimcilarinmolayeri.com/ilanlar] Sunucuda staj arayışı içerisinde olan üyelerimize yönelik kanaldır. **Lütfen** kanalı reklam için kullanmayınız.
+```
+
+### Diğer
+```
+#roller :
+:small_blue_diamond: **Rol bilgilendirmesi için "Direkt Mesajları" açın.** Rol almakta sorun yaşadığınız durumlarda yönetici ekip ile iletişime geçin.
+
 #gündem :
 :small_blue_diamond: Gündemdeki haberlerin webhook tarafından paylaşıldığı kanaldır. Bu kanalda üyeler için yazma yetkisi kapalıdır.
 
@@ -97,14 +147,8 @@
 :small_blue_diamond: Grafik, model tasarımının -2B, 3B- paylaşıldığı ve tasarım programları -Gimp, Photoshop vb.- hakkında  bilgi ve yardım alışverişinin yapıldığı kanaldır.
 
 #proje-sergile :
-:small_blue_diamond: Bu kanalda sunucumuz üyeleri açık kaynaklı proje paylaşımında bulunabilirler. Proje paylaşırken: projeyi tanıtan kısa bir açıklama cümlesi, isteğe bağlı proje görseli veya videosu ve projenizi **açık kaynak kodlarını** depoladığınız web servisinin -GitHub, GitLab vb.- adresini veya kodları içeren dosyayı vermeniz yeterli olacaktır. Bu kurallar dışında **kullanıcılara ve cihazlara zarar verebilecek** yazılımlar -hile, virüs vb.- ve ürün tanıtımları yapmak yasaktır!
+:small_blue_diamond: Bu kanalda sunucumuz üyeleri **açık kaynaklı** proje paylaşımında bulunabilirler. Proje paylaşırken: projeyi tanıtan kısa bir açıklama cümlesi, isteğe bağlı proje görseli veya videosu ve projenizi **açık kaynak kodlarını** depoladığınız web servisinin -GitHub, GitLab vb.- adresini veya kodları içeren dosyayı vermeniz yeterli olacaktır. Bu kurallar dışında **kullanıcılara ve cihazlara zarar verebilecek** yazılımlar -hile, virüs vb.- ve ürün tanıtımları yapmak yasaktır!
 
 #bilim-teknoloji :
-:small_blue_diamond: Bilim ve teknoloji hakkında her şeyin paylaşımının ve bilgi alışverişinin yapıldığı kanaldır.
-```
-
-## Sesli Kanallar
-```
-#müzik-komut :
-:small_blue_diamond: Sunucu üyelerinin müzik odasında müzik dinlemek için müzik botuna komut verdikerli kanaldır. Komut vermeden önce **müzik odasına** girdiğinizden emin olun. Bu kanalda **sohbet etmek yasaktır**.
+:small_blue_diamond: Bilim ve teknoloji hakkında her şeyin paylaşımı ve bilgi alışverişinin yapıldığı kanaldır.
 ```
